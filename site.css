@@ -1,0 +1,9 @@
+
+.mdl-layout__content {
+    display: flex;
+}
+
+.mdl-layout__tab-panel {
+    width: 50%;
+    margin: 0 auto;
+}
